@@ -9,7 +9,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DORNEN&show_icons=true&theme=radical" />
 
 --------------
-**learning :**
+learning :
 - SQL Server
 - Python
 - Data Scientist
