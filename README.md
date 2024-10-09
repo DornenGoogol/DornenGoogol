@@ -39,4 +39,4 @@ these are Amir's skills, the important thing is that Amir is helping me find the
   --------------
   --------------
 
-<a href="https://instagram.com/eris.mw"> <img align="left" src="https://github.com/DornenGoogol/DornenGoogol/blob/main/instagram-logo-main-4.png?raw=true" /> </a>
+<a href="https://instagram.com/eris.mw"> <img align="center" width="50px" height="50px" src="https://github.com/DornenGoogol/DornenGoogol/blob/main/instagram-logo-main-4.png?raw=true" /> </a>
