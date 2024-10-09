@@ -25,7 +25,7 @@
 - Stroke and Diabetes Prediction
 - OCR (Optical Character Recognition)
 - Image Processing and Object Detection
-- House Price Estimation
+- House Price Estimation    
 - Insurance Claim Damage Assessment
 - Personalized Product Recommendation System
 - Music Recommendation System like Spotify
@@ -38,3 +38,5 @@ these are Amir's skills, the important thing is that Amir is helping me find the
 
   --------------
   --------------
+
+  <h2>   </h2>
