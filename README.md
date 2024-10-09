@@ -15,7 +15,7 @@
 - Data Scientist
 - machine learning
 --------------
-<h2> my instagram : </h2>
+<h2> **my Social network :** </h2>
 <a href="https://instagram.com/eris.mw"> <img align="center" width="50px" height="50px" src="https://github.com/DornenGoogol/DornenGoogol/blob/main/instagram-logo-main-4.png?raw=true" /> </a>
 
 
