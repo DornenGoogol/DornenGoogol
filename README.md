@@ -31,7 +31,9 @@
 - Music Recommendation System like Spotify
 - News Classification and Analysis
 --------------
-Of course, I was joking, these are Amir's skills, the important thing is that Amir is helping me find these skills.
+Of course, I was joking.
+these are Amir's skills, the important thing is that Amir is helping me find these skills.
+
 **Please help me, he is torturing me.**
 
   --------------
