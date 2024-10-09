@@ -1,8 +1,8 @@
 --------------
-*who am i? *
+**who am i?**
 <h2 align="center"> I am binary god </h2>
 
-GitHub Stats 🚀
+**GitHub Stats** 🚀
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DORNEN&show_icons=true&theme=radical" />
 
 --------------
