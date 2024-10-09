@@ -1,7 +1,8 @@
 --------------
-#who am i? 
+**who am i? **
 <h2 align="center"> I am binary god </h2>
 
+GitHub Stats 🚀
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DORNEN&show_icons=true&theme=radical" />
 
 --------------
@@ -40,3 +41,5 @@ these are Amir's skills, the important thing is that Amir is helping me find the
   --------------
 <h2> my instagram : </h2>
 <a href="https://instagram.com/eris.mw"> <img align="center" width="50px" height="50px" src="https://github.com/DornenGoogol/DornenGoogol/blob/main/instagram-logo-main-4.png?raw=true" /> </a>
+
+
